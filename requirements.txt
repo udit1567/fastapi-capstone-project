@@ -12,3 +12,19 @@ numpy==1.26.4
 redis==5.0.4
 
 prometheus-fastapi-instrumentator==6.1.0
+
+
+{
+  "company": "Maruti",
+  "year": 2014,
+  "owner": "Second",
+  "fuel": "Petrol",
+  "seller_type": "Dealer",
+  "transmission": "Manual",
+  "km_driven": 23300,
+  "mileage_mpg": 44.4,
+  "engine_cc": 1248,
+  "max_power_bhp": 57,
+  "torque_nm": 62,
+  "seats": 4
+}
